@@ -1,0 +1,20 @@
+{
+  "name": "briteweb/hide-front-end",
+  "description": "Lightweight utility to hide the front end of a staging site before it's ready to view.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jeff",
+      "email": "jeff.sagal@briteweb.com"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "hide-front-end.php"
+    ]
+  },
+  "require": {
+    "tightenco/collect": "^5.8"
+  }
+}
